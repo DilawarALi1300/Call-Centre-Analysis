@@ -7,11 +7,15 @@ This repository contains the code and assets for a Power BI dashboard that analy
 
 ### Features
 
--   Visualizes call center data from various sources (potentially specify if known).
--   Tracks overall call volume and trends over time.
--   Analyzes call resolutions by department, agent, and issue type.
--   Measures customer satisfaction through ratings and feedback analysis.
--   Provides interactive drill-down capabilities for deeper analysis.
+- Visualizes call center data set
+- Tracks overall call volume and trends over time.
+- Analyzes call resolutions by department, agent, and issue type.
+- Measures customer satisfaction through ratings and feedback analysis.
+- Provides interactive drill-down capabilities for deeper analysis.
+- Unveiled key trends in call resolution and customer satisfaction through impactful visualizations.
+-	Identified areas for improvement: only 29% of calls resulted in customer satisfaction.
+-	Leveraged data insights to inform targeted strategies for boosting positive call outcomes.
+
 
 ### Technologies
 
