@@ -1,4 +1,6 @@
-##   
+
+##   <img width="598" alt="Screenshot 2024-01-27 114006" src="https://github.com/DilawarALi1300/Call-Centre-Analysis/assets/155839093/fe586431-5933-4720-9baf-cfe22963b3b3">
+
 Call Center Performance Dashboard
 
 This repository contains the code and assets for a Power BI dashboard that analyzes call center performance data. The dashboard provides insights into key metrics such as call volume, resolution rates, and customer satisfaction.
@@ -16,7 +18,7 @@ This repository contains the code and assets for a Power BI dashboard that analy
 -   Power BI Desktop
 
 ### Data Sources
-
+[Dataset](https://github.com/DilawarALi1300/Call-Centre-Analysis/blob/main/Call-Center-Dataset.csv)
 
 ### Getting Started
 
